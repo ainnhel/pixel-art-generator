@@ -1,2 +1,2 @@
 # pixel-art-generator
-This project is Under Development
+The project is Under Development.
